@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: May 12, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Reviewed #100daysofcode, setup Trello, Paper.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I felt like I didn't have any traction and was beating myself up about it. I am going to focus on actually doing what I want/need to do and not focus/worry about the past or situation I am in. Just focus on execution.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** Coming soon.
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
